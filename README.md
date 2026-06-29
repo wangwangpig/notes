@@ -2,4 +2,4 @@
 
 ## 学习计划
 
-- [大模型算法/开发岗位 1 个月入门学习计划](./llm_job_one_month_plan.md)
+- [大模型算法开发 / 应用开发 1 个月学习计划](./llm_job_one_month_plan.md)
